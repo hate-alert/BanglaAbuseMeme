@@ -1,0 +1,13 @@
+transformers
+torch
+torchvision
+torchaudio
+numpy
+pandas
+matplotlib
+tqdm
+scikit-learn
+Pillow
+opencv-python
+easyocr
+git+https://github.com/csebuetnlp/normalizer
