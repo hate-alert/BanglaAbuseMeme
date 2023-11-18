@@ -1,6 +1,8 @@
-# Detail of the Shared Code
+------------------------------------------
+***Detail of the Shared Code***
+------------------------------------------
 
-#To Extract the Text-based Features
+# To Extract the Text-based Features
 
  --> 01_MemeText-basedFeatureExtraction
 
@@ -26,5 +28,5 @@
 ~~~
 
 
-# To Extract the Meme text use Easy OCR
+# To Extract the Meme text, use Easy OCR
  --> https://pypi.org/project/easyocr/
